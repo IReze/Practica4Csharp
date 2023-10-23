@@ -8,3 +8,10 @@ C:\Users\96119\source\repos\Formulario_5\Formulario_5\obj\Debug\Formulario_5.csp
 C:\Users\96119\source\repos\Formulario_5\Formulario_5\obj\Debug\Formulario_5.csproj.CoreCompileInputs.cache
 C:\Users\96119\source\repos\Formulario_5\Formulario_5\obj\Debug\Formulario_5.exe
 C:\Users\96119\source\repos\Formulario_5\Formulario_5\obj\Debug\Formulario_5.pdb
+C:\Users\96119\source\repos\Formulario_5\Formulario_5\bin\Debug\MySql.Data.dll
+C:\Users\96119\source\repos\Formulario_5\Formulario_5\bin\Debug\System.Memory.dll
+C:\Users\96119\source\repos\Formulario_5\Formulario_5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\96119\source\repos\Formulario_5\Formulario_5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\96119\source\repos\Formulario_5\Formulario_5\bin\Debug\System.Buffers.dll
+C:\Users\96119\source\repos\Formulario_5\Formulario_5\bin\Debug\MySql.Data.xml
+C:\Users\96119\source\repos\Formulario_5\Formulario_5\obj\Debug\Formulario_5.csproj.CopyComplete
